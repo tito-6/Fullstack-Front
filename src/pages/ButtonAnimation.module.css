@@ -1,0 +1,13 @@
+/* ButtonAnimation.module.css */
+
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 0 20px; /* Adjust the padding as needed for desired spacing */
+}
+
+.table-wrapper {
+  width: 100%;
+  max-width: 1200px; /* Adjust max-width as needed */
+  margin: 20px auto 0 auto; /* Add top margin for space between navbar and table */
+}
